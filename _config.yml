@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "MArSha1147"
-title_separator          : "-"
-subtitle                 : Blazing Flame # site tagline that appears below site title in masthead
+# title_separator          : "-"
+# subtitle                 : Blazing Flame # site tagline that appears below site title in masthead
 name                     : "Yi Wang"
 description              : "MArSha1137 Homepage."
 url                      : "https://marsha1147.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,7 +108,6 @@ author:
   avatar           : /assets/images/portrait.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Pursuing my **CS Ph.D.** in **ZJU**"
   location         : "Hangzhou, China"
-  email            : "y_w@zju.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
